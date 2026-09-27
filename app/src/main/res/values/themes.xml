@@ -1,0 +1,8 @@
+<resources>
+    <style name="DialogTheme" parent="@android:style/Theme.Material.Dialog.NoActionBar">
+        <item name="android:windowBackground">#1E232D</item>
+        <item name="android:textColorPrimary">#E8EAED</item>
+        <item name="android:textColorHint">#5C6472</item>
+        <item name="android:colorAccent">#4F8CFF</item>
+    </style>
+</resources>
