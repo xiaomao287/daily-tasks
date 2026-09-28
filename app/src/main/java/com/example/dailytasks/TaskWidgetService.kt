@@ -50,4 +50,7 @@ class Factory(private val c: Context) : RemoteViewsService.RemoteViewsFactory {
         )
         return v
     }
+    override fun getLoadingView(): RemoteViews? {
+    return null
+    }
 }
